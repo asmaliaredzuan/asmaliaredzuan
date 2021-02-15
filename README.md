@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Asmalia Redzuan
 - 👀 I’m interested in software developing and cyber security field
 - 🌱 I’m an undergraduate research assistant at University of Arkansas at Little Rock
-- 💞️ I’m looking for any opportunity that could help me get better in technology
+- 💞️ I’m looking for any opportunity that could help me get better
 - 📫 How to reach me:
       - email: asmaliaredzuan@gmail.com
       - linked in: linkedin.com/in/asmalia-redzuan-2a2b181b7
